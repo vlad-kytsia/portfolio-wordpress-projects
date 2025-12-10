@@ -78,8 +78,8 @@ A multilingual landing page built using the Astra theme and Gutenberg blocks. In
 ## 📫 Contact
 If you want to collaborate or have questions about my work:
 
-- **Email:** vladimir.kitsya86@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/vladimir-kytsia/
+- **Email:** kytsia.agency@gmail.com
+- **LinkedIn:** https://www.linkedin.com/company/kytsia-web-agency/
 - **GitHub:** https://github.com/vlad-kytsia
 
 ---
