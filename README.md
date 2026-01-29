@@ -1,6 +1,6 @@
 # Vlad Kytsia – WordPress Developer Portfolio
 
-Hi! My name is Vlad, and I am a Front-End and WordPress Developer specializing in custom theme development, Figma-to-WordPress integration, Gutenberg blocks, ACF structures, multilingual websites, Divi and Astra customization, and performance-optimized landing pages.
+Hi! My name is Vlad, and I am a Front-End and WordPress Developer specializing in custom theme development, Figma-to-WordPress integration, Gutenberg blocks, custom Gutenberg block development, ACF structures, multilingual websites, and performance-optimized landing pages.
 
 This portfolio includes selected commercial projects delivered for international clients.
 
@@ -8,7 +8,7 @@ This portfolio includes selected commercial projects delivered for international
 
 ## 🧑‍💻 About Me
 - 5+ years of commercial development experience  
-- WordPress Developer (custom themes, Gutenberg, ACF, Elementor, Divi)  
+- WordPress Developer (custom themes, Gutenberg, custom Gutenberg blocks, ACF, Elementor, Divi)  
 - Front-End Developer (HTML5, CSS3, JavaScript, animations)  
 - Figma → WordPress specialist  
 - Experience with multilingual and RTL websites  
